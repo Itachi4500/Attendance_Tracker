@@ -1,4 +1,11 @@
 streamlit
 pandas
-qrcode 
-opencv-python 
+numpy
+opencv-python-headless
+qrcode
+Pillow
+requests
+openpyxl
+xlsxwriter
+reportlab
+geocoder
